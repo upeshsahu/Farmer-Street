@@ -6,6 +6,7 @@
 * K-nearest neighbor
 * Linear Regression Model (house prediction)
 * Random Forest(hand writing recognition)
+* SVM
 
 ## data sets used
 * house prediction
